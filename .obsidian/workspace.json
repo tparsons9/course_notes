@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "ccaefd59ace2916c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1d21ea6a2130bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573747505746c039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Microeconomic Theory/Additive and NIRTS Y iff CRTS and Convex Y.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Additive and NIRTS Y iff CRTS and Convex Y"
+            }
+          },
+          {
+            "id": "11ded68633ecbd96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profit Maximization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Profit Maximization"
+            }
+          },
+          {
+            "id": "bcb2633938abd87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-11"
+            }
+          },
+          {
+            "id": "da44761d59143baf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-11 09.33.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-11 09.33.17.excalidraw"
+            }
+          },
+          {
+            "id": "28fe356b898cf365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PMP FOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PMP FOC"
+            }
+          },
+          {
+            "id": "ebbc9300ffcc72bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Microeconomic Theory/Cost Minimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cost Minimization"
+            }
+          },
+          {
+            "id": "8edbac4617561f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profit Maximization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Profit Maximization"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4a49e4759d9c662",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3928f3b187ba164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81977170b583d2f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "46d4542d04519b93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a560f3ab73f1760a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7939c01150ebebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93092580a63bc0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8be781075cdde9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-11-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-11"
+            }
+          },
+          {
+            "id": "ce36ac4958c3eb47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-11-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-11"
+            }
+          },
+          {
+            "id": "d0eb2abe8d3769ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5787c18e5d4881b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECON4801/Lindeberg-Lévy CLT.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lindeberg-Lévy CLT"
+            }
+          },
+          {
+            "id": "07a86675ed377110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECON4801/Convergence in Probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Convergence in Probability"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bcb2633938abd87a",
+  "lastOpenFiles": [
+    "README.md",
+    "Media/images/Pasted image 20241111103732.png",
+    "Excalidraw/Drawing 2024-11-11 09.33.17.excalidraw.md",
+    "2024-11-11.md",
+    "Convexity of Profit Function.md",
+    "Homogeneity of Profit Maximization.md",
+    "PMP FOC.md",
+    "Media/images/Pasted image 20241111102315.png",
+    "06-Microeconomic Theory/Cost Minimization.md",
+    "Media/images/Pasted image 20241111102059.png",
+    "Media/images/Pasted image 20241111101059.png",
+    "Media/images/Pasted image 20241111100209.png",
+    "Media/images/Pasted image 20241111095857.png",
+    "Excalidraw",
+    "Temp.md",
+    "Profit and Cost Functions Under Cobb-Douglas Production Function.md",
+    "Duality of Cost and Profit Maximization.md",
+    "06-Microeconomic Theory/Production MOC.md",
+    "Comparative Statics in Production.md",
+    "Profit Maximization.md",
+    "05-Mathematics/Concave Functions.md",
+    "Definiteness of the PMP.md",
+    "Hotelling's Lemma.md",
+    "06-Microeconomic Theory/Non-decreasing Returns to Scale.md",
+    "Utilities/Templates/Proposition_Theorem Template.md",
+    "Utilities/Templates/micro template.md",
+    "06-Microeconomic Theory/Marginal Rate of Transformation.md",
+    "NRDTS implications for PMP.md",
+    "Media/images/Pasted image 20241110161718.png",
+    "06-Microeconomic Theory/Production Functions.md",
+    "06-Microeconomic Theory/Properties of Production Sets.md",
+    "06-Microeconomic Theory/Production Possibilities Frontier.md",
+    "06-Microeconomic Theory/Transformation Functions.md",
+    "06-Microeconomic Theory/Returns to Scale.md",
+    "Media/images/Pasted image 20241110101201.png",
+    "temp.ipynb",
+    "Media/images/Pasted image 20241109170236.png",
+    "Media/images/Pasted image 20241109160853.png",
+    "Media/images",
+    "ECON4801/isoquant_comparison.py",
+    "ECON4801/temp.ipynb",
+    "Media/PDF/Production.pdf",
+    "Media/PDF",
+    "Media",
+    "Utilities",
+    "07 - Marketing Theory"
+  ]
+}
